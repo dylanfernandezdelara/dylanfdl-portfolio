@@ -3,7 +3,7 @@ module.exports = {
     title: `Dylan Fernandez de Lara`,
     description: `Hi! I'm Dylan Fernandez de Lara, a student studying CS at Yale.`,
     author: `Dylan Fernandez de Lara`,
-    siteUrl: `dylanfdl.com`,
+    siteUrl: `elated-yonath-a59ebc.netlify.app`,
   },
   plugins: [
     // https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/
