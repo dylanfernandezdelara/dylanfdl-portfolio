@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gabriel Buchdahl`,
-    description: `Hi! I'm Gabriel Buchdahl, a student studying Math & CS at Yale. This summer, I'll be a SWE intern at MongoDB. Check out my GitHub and my LinkedIn here! 😊`,
-    author: `Gabriel Buchdahl`,
-    siteUrl: `https://buchdahl.com`,
+    title: `Dylan Fernandez de Lara`,
+    description: `Hi! I'm Dylan Fernandez de Lara, a student studying CS at Yale.`,
+    author: `Dylan Fernandez de Lara`,
+    siteUrl: `dylanfdl.com`,
   },
   plugins: [
     // https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/
@@ -36,7 +36,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-prismic-graphql',
       options: {
-        repositoryName: 'personal-site-2019', // (REQUIRED, replace with your own)
+        repositoryName: 'dylanfdl-portfolio', // (REQUIRED, replace with your own)
         linkResolver: () => post => `/${post.uid}`,
       }
     },
@@ -49,7 +49,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gwbicon.png`, // This path is relative to the root of the site.
+        icon: `src/images/dylanLogo.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
