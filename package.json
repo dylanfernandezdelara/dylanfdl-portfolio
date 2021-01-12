@@ -1,9 +1,9 @@
 {
   "name": "gatsby-prismic-starter-prist",
   "private": true,
-  "description": "Gabriel Buchdahl | Site to showcase work.",
+  "description": "Dylan Fernandez de Lara | A portfolio website.",
   "version": "0.1.0",
-  "author": "Gabriel Buchdahl | buchdahl.com | gbuchdahl@gmail.com",
+  "author": "Dylan Fernandez de Lara | dylanfdl.com | dylan.fernandezdelara@yale.edu",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.12",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gbuchdahl/personal-site-2019"
+    "url": "https://github.com/dylanfernandezdelara/dylanfdl-portfolio"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
